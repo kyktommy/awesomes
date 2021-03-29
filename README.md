@@ -8,6 +8,13 @@
 
 ---
 
+### News
+
+- [hacker news](https://news.ycombinator.com/)
+- [designer news](https://www.designernews.co/)
+
+---
+
 ### Photos
 
 - [shopify burst](https://burst.shopify.com/)
