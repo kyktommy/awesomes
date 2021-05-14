@@ -16,6 +16,14 @@
 
 ---
 
+### Best Pratice
+
+- [mircosoft api guidelines](https://github.com/microsoft/api-guidelines)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+- [domain driven hexagon (nestjs)](https://github.com/Sairyss/domain-driven-hexagon)
+
+---
+
 ### News
 
 - [hacker news](https://news.ycombinator.com/)
