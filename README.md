@@ -1,12 +1,13 @@
 # awesomes
 
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [awesome scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [engineer manager](https://github.com/ryanburgess/engineer-manager)
 - [awesome cto](https://github.com/kuchin/awesome-cto)
-- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [engineer blog](https://github.com/sumodirjo/engineering-blogs)
 - [design for developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [free service for dev](https://github.com/ripienaar/free-for-dev)
+- [awesome github actions](https://github.com/sdras/awesome-actions)
 
 ---
 
