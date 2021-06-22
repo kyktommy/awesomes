@@ -11,6 +11,7 @@
 - [how they test](https://github.com/abhivaikar/howtheytest)
 - [web pen test](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [defi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+- [defi research](https://github.com/OffcierCia/ultimate-defi-research-base)
 
 ---
 
