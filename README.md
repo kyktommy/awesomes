@@ -10,6 +10,7 @@
 - [awesome github actions](https://github.com/sdras/awesome-actions)
 - [how they test](https://github.com/abhivaikar/howtheytest)
 - [web pen test](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [defi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
 ---
 
