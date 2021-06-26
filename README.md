@@ -1,4 +1,4 @@
-# awesomes
+# Awesomes
 
 - [awesome scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [engineer manager](https://github.com/ryanburgess/engineer-manager)
@@ -12,6 +12,12 @@
 - [web pen test](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [defi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [defi research](https://github.com/OffcierCia/ultimate-defi-research-base)
+
+---
+
+### Source code study
+
+- [nginx 1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2)
 
 ---
 
