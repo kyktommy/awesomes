@@ -35,6 +35,12 @@
 
 ---
 
+### Weekly
+
+- [alibaba frontend weekly](https://www.yuque.com/alibabaf2e/weekly)
+
+---
+
 ### News
 
 - [hacker news](https://news.ycombinator.com/)
