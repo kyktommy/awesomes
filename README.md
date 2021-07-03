@@ -38,6 +38,7 @@
 ### Weekly
 
 - [alibaba frontend weekly](https://www.yuque.com/alibabaf2e/weekly)
+- [this week in 4in6](https://thisweekin4n6.com/)
 
 ---
 
