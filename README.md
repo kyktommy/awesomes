@@ -22,6 +22,12 @@
 
 ---
 
+### Roadmap
+
+- [AI Expert roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+
+---
+
 ### Boilerplate
 
 - [express rest](https://github.com/danielfsousa/express-rest-boilerplate)
