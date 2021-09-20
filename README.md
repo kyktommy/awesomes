@@ -38,8 +38,14 @@
 ### Best Pratice
 
 - [mircosoft api guidelines](https://github.com/microsoft/api-guidelines)
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+- [node best practices](https://github.com/goldbergyoni/nodebestpractices)
 - [domain driven hexagon (nestjs)](https://github.com/Sairyss/domain-driven-hexagon)
+
+---
+
+### Cheatsheet
+
+- [typescript react](https://github.com/typescript-cheatsheets/react)
 
 ---
 
