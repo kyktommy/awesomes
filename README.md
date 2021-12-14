@@ -10,7 +10,6 @@
 - [awesome github actions](https://github.com/sdras/awesome-actions)
 - [how they test](https://github.com/abhivaikar/howtheytest)
 - [web pen test](https://github.com/swisskyrepo/PayloadsAllTheThings)
-- [defi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [defi research](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [awesome architecture](https://github.com/toutiaoio/awesome-architecture)
 - [awesome audio video streaming)](https://github.com/0voice/audio_video_streaming)
@@ -27,6 +26,7 @@
 ### Roadmap
 
 - [AI Expert roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+- [defi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
 ---
 
@@ -41,6 +41,7 @@
 - [mircosoft api guidelines](https://github.com/microsoft/api-guidelines)
 - [node best practices](https://github.com/goldbergyoni/nodebestpractices)
 - [domain driven hexagon (nestjs)](https://github.com/Sairyss/domain-driven-hexagon)
+- [jetpack mvvm](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice)
 
 ---
 
@@ -54,6 +55,9 @@
 
 - [alibaba frontend weekly](https://www.yuque.com/alibabaf2e/weekly)
 - [this week in 4in6](https://thisweekin4n6.com/)
+- [ascoder fe weekly (chinese)](https://github.com/ascoders/weekly)
+- [ruanyf tech weekly (chinese)](https://github.com/ruanyf/weekly)
+- [zcool design article (chinese)](https://www.zcool.com.cn/discover?cate=0&subCate=809824)
 
 ---
 
