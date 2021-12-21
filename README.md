@@ -12,7 +12,7 @@
 - [web pen test](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [defi research](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [awesome architecture](https://github.com/toutiaoio/awesome-architecture)
-- [awesome audio video streaming)](https://github.com/0voice/audio_video_streaming)
+- [awesome audio video streaming](https://github.com/0voice/audio_video_streaming)
 
 ---
 
@@ -42,6 +42,7 @@
 - [node best practices](https://github.com/goldbergyoni/nodebestpractices)
 - [domain driven hexagon (nestjs)](https://github.com/Sairyss/domain-driven-hexagon)
 - [jetpack mvvm](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice)
+- [fenixsoft - large distributed system design (chinese)](https://icyfenix.cn/)
 
 ---
 
