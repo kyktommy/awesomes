@@ -85,3 +85,11 @@
 - [Barn Images](https://barnimages.com/)
 - [reShot](https://www.reshot.com/)
 - [Life of Pix](https://www.lifeofpix.com/)
+
+---
+
+### Blog
+
+- [joshwcomeau (css)](https://www.joshwcomeau.com)
+
+
