@@ -44,6 +44,7 @@
 - [domain driven hexagon (nestjs)](https://github.com/Sairyss/domain-driven-hexagon)
 - [jetpack mvvm](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice)
 - [fenixsoft - large distributed system design (chinese)](https://icyfenix.cn/)
+- [javascript testing best practice](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 ---
 
