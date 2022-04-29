@@ -57,10 +57,11 @@
 ### Weekly
 
 - [alibaba frontend weekly](https://www.yuque.com/alibabaf2e/weekly)
-- [this week in 4in6](https://thisweekin4n6.com/)
+- [naver fe weekly (yes in korean)](https://github.com/naver/fe-news)
 - [ascoder fe weekly (chinese)](https://github.com/ascoders/weekly)
 - [ruanyf tech weekly (chinese)](https://github.com/ruanyf/weekly)
 - [zcool design article (chinese)](https://www.zcool.com.cn/discover?cate=0&subCate=809824)
+- [this week in 4in6](https://thisweekin4n6.com/)
 
 ---
 
