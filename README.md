@@ -14,6 +14,7 @@
 - [awesome architecture](https://github.com/toutiaoio/awesome-architecture)
 - [awesome audio video streaming](https://github.com/0voice/audio_video_streaming)
 - [ethereum developer tools list](https://github.com/ConsenSys/ethereum-developer-tools-list)
+- [awesome diagramming tools](https://github.com/shubhamgrg04/awesome-diagramming)
 
 ---
 
