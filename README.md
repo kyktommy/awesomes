@@ -49,6 +49,7 @@
 - [javascript testing best practice](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [fastapi best practices](https://github.com/zhanymkanov/fastapi-best-practices)
 - [security study plan](https://github.com/jassics/security-study-plan)
+- [kafka in production](https://github.com/dttung2905/kafka-in-production)
 
 ---
 
