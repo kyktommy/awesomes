@@ -26,6 +26,12 @@
 
 ---
 
+### Learn
+
+- [cisen - rust beginner](https://github.com/cisen/blog/issues/612)
+
+---
+
 ### Roadmap
 
 - [AI Expert roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
