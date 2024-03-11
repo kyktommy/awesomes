@@ -42,6 +42,7 @@
 ### Boilerplate
 
 - [express rest](https://github.com/danielfsousa/express-rest-boilerplate)
+- [nextjs](https://github.com/ixartz/Next-js-Boilerplate)
 
 ---
 
