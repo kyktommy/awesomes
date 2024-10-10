@@ -95,6 +95,7 @@
 - [Chakra UI](https://chakra-ui.com)
 - [Material UI](https://material-ui.com/)
 - [Ant design](https://ant.design/)
+- [Radix UI](https://www.radix-ui.com/)
 
 ---
 
@@ -107,8 +108,16 @@
 
 ---
 
+### AI
+
+- [Prompt engineering guide](https://www.promptingguide.ai/)
+- [ollama blog](https://ollama.com/blog)
+
+---
+
 ### Blog
 
 - [joshwcomeau (css)](https://www.joshwcomeau.com)
+- [simon3468 (ai)](https://medium.com/@simon3458)
 
 
