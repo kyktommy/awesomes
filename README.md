@@ -16,6 +16,7 @@
 - [ethereum developer tools list](https://github.com/ConsenSys/ethereum-developer-tools-list)
 - [awesome diagramming tools](https://github.com/shubhamgrg04/awesome-diagramming)
 - [awesome wechat weapp](https://github.com/justjavac/awesome-wechat-weapp)
+- [dark handbook](https://github.com/evilcos/darkhandbook)
 
 ---
 
