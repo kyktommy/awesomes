@@ -1,3 +1,8 @@
+# Skills
+
+- [mattpocock/skills](https://github.com/mattpocock/skills)
+- [obra/superpowers](https://github.com/obra/superpowers)
+
 # Awesomes
 
 - [awesome scalability](https://github.com/binhnguyennus/awesome-scalability)
