@@ -2,6 +2,9 @@
 
 - [mattpocock/skills](https://github.com/mattpocock/skills)
 - [obra/superpowers](https://github.com/obra/superpowers)
+- [steipete/agent-scripts](https://github.com/steipete/agent-scripts)
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills)
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
 # Awesomes
 
